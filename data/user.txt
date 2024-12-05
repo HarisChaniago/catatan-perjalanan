@@ -1,0 +1,3 @@
+nik = 11233 ,nama = kaku 
+nik = ee ,nama = eee 
+nik = 0991 ,nama = 1111 
